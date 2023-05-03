@@ -2,11 +2,11 @@
 
 
 ### Adding extentions:
-1. create class library with "Extentions" as it name.
-2. set reference to AutomationPipeline.Model.
-3.implement ICommand.
-4.create/use folder Extentions in th client layer.
-5.build your dll and copy it to Extentions folder.
+* create class library with "Extentions" as it name.
+* set reference to AutomationPipeline.Model.
+* implement ICommand.
+* create/use folder Extentions in th client layer.
+* build your dll and copy it to Extentions folder.
 
 ### Xml example:
 <?xml version="1.0"?>
